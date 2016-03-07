@@ -1,0 +1,33 @@
+
+body {
+	background-color: orange;
+	text-align: center;
+
+
+}
+
+h1 {
+	font-family:"Courier New", Courier, monospace;
+	font-style: italic;
+	text-decoration: underline;
+	color: green;  	
+
+}
+
+p {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+
+}
+
+ul {
+	padding-right: 40px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+
+li:hover {
+	background-color: yellow;
+
+
+}
